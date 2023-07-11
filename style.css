@@ -5,6 +5,7 @@
 }
 body{
  font-size: 18px;
+ overflow-x: hidden;
 }
 .nav ul li{
  text-transform: capitalize;
