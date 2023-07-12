@@ -3,12 +3,12 @@
  margin: 0;
  box-sizing: border-box;
 }
-body{
+body, html{
  font-size: 18px;
  overflow-x: hidden; 
 }
 .site{
- overflow-x: hidden !important;
+ overflow-x: hidden;
 }
 .nav ul li{
  text-transform: capitalize;
