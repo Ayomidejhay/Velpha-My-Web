@@ -5,7 +5,10 @@
 }
 body{
  font-size: 18px;
- overflow-x: hidden;
+ overflow-x: hidden; 
+}
+.site{
+ overflow-x: hidden !important;
 }
 .nav ul li{
  text-transform: capitalize;
@@ -44,7 +47,7 @@ body{
  justify-content: space-between;
  align-items: center;
  background-color: white;
-
+ overflow-x: hidden;
 }
 .bg-img{
  background-image: url(https://images.pexels.com/photos/8721318/pexels-photo-8721318.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
