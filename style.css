@@ -9,6 +9,8 @@ body, html{
 }
 .site{
  overflow-x: hidden;
+ position: relative;
+ width: 100%;
 }
 .nav ul li{
  text-transform: capitalize;
